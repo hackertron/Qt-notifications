@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:1-63:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eaebae0e4901e0565c82cf80309e397b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e08f6057623c5a5413f72e5dc8472c47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/79c967d8bff29d5805838d492226501b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2e846329bcececac1b0890d2cbdce269/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60528ed5e9bed6b651dc76b4991bf72f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e275c0fbc751cb04e399775da452b647/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/077f8f50b487cac7bb9ea0deab77cf24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99e5d4f7858838c778d1daf4a58c1dff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/10dd6d81a2a1ece5d4775bb2645b7d29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4e752efd6678da34be49ca3c9a64e304/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a550c94407b8ccb7b057e160461ed1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/235cf59329a1eca740896d0ec1a2f271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1746c7c4cd83f59a98efbbdebe8c6ef0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a136bd3e9b789309620ad80f6310a65a/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1fe71f49a99b1f19c7db2d56ebce0eea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ed390399d465fe64573cd1a1cde999e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d2506e3a1c9acb57e667b25c9a4bcf58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4f6c48b9547bc65af7bfc8e1d1823c87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/57c7b0163db86b8940d77a089a72d183/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c795704f8932336982f7dff46ce13b68/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a98212f4c16fd7de5f348610fe85c99e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86ea9d4cd295762fc18fbdc61f1ab5b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3f506a1662d3e806db05fa38ed5a35fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ad6ae2fc759ea28ac37c3288b08f68f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:1-63:12
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:11-42
+	android:versionName
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:102-127
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:43-101
+	android:versionCode
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:128-151
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:2:152-182
+application
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:3:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a136bd3e9b789309620ad80f6310a65a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a136bd3e9b789309620ad80f6310a65a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:3:117-158
+	android:hardwareAccelerated
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:3:18-52
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:3:53-116
+activity#org.qtproject.qt5.android.bindings.QtActivity
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:4:9-47:20
+	android:screenOrientation
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:7:19-58
+	android:label
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:6:19-60
+	android:launchMode
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:8:19-49
+	android:configChanges
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:4:19-172
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:5:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:11:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:13:13-107
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:13:60-105
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:13:24-59
+meta-data#android.app.qt_sources_resource_id
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:14:13-112
+	android:resource
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:14:74-110
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:14:24-73
+meta-data#android.app.repository
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:15:13-87
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:15:62-85
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:15:24-61
+meta-data#android.app.qt_libs_resource_id
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:16:13-106
+	android:resource
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:16:71-104
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:16:24-70
+meta-data#android.app.bundled_libs_resource_id
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:17:13-116
+	android:resource
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:17:76-114
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:17:24-75
+meta-data#android.app.bundle_local_qt_libs
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:19:13-120
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:19:72-118
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:19:24-71
+meta-data#android.app.bundled_in_lib_resource_id
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:20:13-120
+	android:resource
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:20:78-118
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:20:24-77
+meta-data#android.app.bundled_in_assets_resource_id
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:21:13-126
+	android:resource
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:21:81-124
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:21:24-80
+meta-data#android.app.use_local_qt_libs
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:23:13-114
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:23:69-112
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:23:24-68
+meta-data#android.app.libs_prefix
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:24:13-100
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:24:63-98
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:24:24-62
+meta-data#android.app.load_local_libs
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:25:13-112
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:25:67-110
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:25:24-66
+meta-data#android.app.load_local_jars
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:26:13-112
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:26:67-110
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:26:24-66
+meta-data#android.app.static_init_classes
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:27:13-118
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:27:71-116
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:27:24-70
+meta-data#android.app.ministro_not_found_msg
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:29:13-122
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:29:24-70
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:29:71-120
+meta-data#android.app.ministro_needed_msg
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:30:13-116
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:30:24-67
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:30:68-114
+meta-data#android.app.fatal_error_msg
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:31:13-108
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:31:24-63
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:31:64-106
+meta-data#android.app.background_running
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:45:13-93
+	android:value
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:45:70-91
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:45:24-69
+receiver#ru.notifications.javalib.NotificationReceiver
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:49:9-82
+	android:name
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:49:19-79
+uses-sdk
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:52:5-16
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:52:5-16
+MERGED from [com.android.support:support-v4:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eaebae0e4901e0565c82cf80309e397b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/eaebae0e4901e0565c82cf80309e397b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e08f6057623c5a5413f72e5dc8472c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/e08f6057623c5a5413f72e5dc8472c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/79c967d8bff29d5805838d492226501b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/79c967d8bff29d5805838d492226501b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2e846329bcececac1b0890d2cbdce269/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/2e846329bcececac1b0890d2cbdce269/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60528ed5e9bed6b651dc76b4991bf72f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/60528ed5e9bed6b651dc76b4991bf72f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e275c0fbc751cb04e399775da452b647/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e275c0fbc751cb04e399775da452b647/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/077f8f50b487cac7bb9ea0deab77cf24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/077f8f50b487cac7bb9ea0deab77cf24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99e5d4f7858838c778d1daf4a58c1dff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99e5d4f7858838c778d1daf4a58c1dff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/10dd6d81a2a1ece5d4775bb2645b7d29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/10dd6d81a2a1ece5d4775bb2645b7d29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4e752efd6678da34be49ca3c9a64e304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4e752efd6678da34be49ca3c9a64e304/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a550c94407b8ccb7b057e160461ed1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a550c94407b8ccb7b057e160461ed1a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/235cf59329a1eca740896d0ec1a2f271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/235cf59329a1eca740896d0ec1a2f271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1746c7c4cd83f59a98efbbdebe8c6ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1746c7c4cd83f59a98efbbdebe8c6ef0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/62102ef206f87ac2c0c4104f0ce98099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a136bd3e9b789309620ad80f6310a65a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a136bd3e9b789309620ad80f6310a65a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1fe71f49a99b1f19c7db2d56ebce0eea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1fe71f49a99b1f19c7db2d56ebce0eea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ed390399d465fe64573cd1a1cde999e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ed390399d465fe64573cd1a1cde999e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d2506e3a1c9acb57e667b25c9a4bcf58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/d2506e3a1c9acb57e667b25c9a4bcf58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4f6c48b9547bc65af7bfc8e1d1823c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4f6c48b9547bc65af7bfc8e1d1823c87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/57c7b0163db86b8940d77a089a72d183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/57c7b0163db86b8940d77a089a72d183/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c795704f8932336982f7dff46ce13b68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c795704f8932336982f7dff46ce13b68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a98212f4c16fd7de5f348610fe85c99e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a98212f4c16fd7de5f348610fe85c99e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86ea9d4cd295762fc18fbdc61f1ab5b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/86ea9d4cd295762fc18fbdc61f1ab5b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3f506a1662d3e806db05fa38ed5a35fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3f506a1662d3e806db05fa38ed5a35fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ad6ae2fc759ea28ac37c3288b08f68f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/harshitdwivedi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ad6ae2fc759ea28ac37c3288b08f68f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:52:5-16
+	android:minSdkVersion
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:52:5-16
+		INJECTED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml
+supports-screens
+ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:53:5-135
+	android:largeScreens
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:53:23-50
+	android:smallScreens
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:53:106-133
+	android:normalScreens
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:53:51-79
+	android:anyDensity
+		ADDED from /Users/harshitdwivedi/Desktop/StudioProjects/Qt-notifications/QtNotifier/android/AndroidManifest.xml:53:80-105
